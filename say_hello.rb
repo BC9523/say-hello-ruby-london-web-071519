@@ -1,1 +1,3 @@
-say_hello(name)
+def say_hello(name)
+  puts "Hello"
+end
